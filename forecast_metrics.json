@@ -1,0 +1,8 @@
+{
+  "data": "synthetic only",
+  "split": "chronological 80/20",
+  "model": "RandomForestRegressor",
+  "test_mae_kw": 1.8278202088156577,
+  "persistence_mae_kw": 2.2344328210245927,
+  "deployment_status": "offline experiment; not connected to live allocation"
+}
